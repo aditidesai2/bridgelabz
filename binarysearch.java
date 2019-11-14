@@ -1,4 +1,4 @@
-
+package bridgelabz_noor.bridgelabz_aditi;
 import java.util.Scanner;
 
 // Java implementation of recursive Binary Search 
@@ -44,4 +44,3 @@ public class binarysearch {
             System.out.println("Element found at index " + result); 
     } 
 }
-
